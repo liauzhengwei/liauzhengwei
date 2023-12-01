@@ -16,11 +16,11 @@ These are 3 fun facts about me:
 🔭 I’m currently working on a telegram bot project
 
 ### 📖 Notable Coursework
-- <a href = "https://github.com/liauzhengwei/SC1015-Introduction-to-Data-Science-and-Artificial-Intelligence-Project">SC1015 Introduction to Data Science and Artificial Intelligence</a>
+- <a href = "https://github.com/liauzhengwei/SC1015-Introduction-to-Data-Science-and-Artificial-Intelligence-Project"> SC1015 Introduction to Data Science and Artificial Intelligence </a>
 - SC2001 Algorithm Design & Analysis
-- SC2002 Object Oriented Design & Programming
+- <a href = "https://github.com/EricFan2002/SC2002"> SC2002 Object Oriented Design & Programming </a>
 - SC2005 Operating Systems
-- SC2006 Software Engineering
+- <a href = "https://github.com/darylloh29/ParkNow"> SC2006 Software Engineering </a>
 
 <br />
 
