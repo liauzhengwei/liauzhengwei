@@ -16,6 +16,7 @@ These are 3 fun facts about me:
 🔭 I’m currently working on a telegram bot project
 
 ### 📖 Notable Coursework
+- <a href = "https://github.com/liauzhengwei/SC1015-Introduction-to-Data-Science-and-Artificial-Intelligence-Project">SC1015 Introduction to Data Science and Artificial Intelligence</a>
 - SC2001 Algorithm Design & Analysis
 - SC2002 Object Oriented Design & Programming
 - SC2005 Operating Systems
