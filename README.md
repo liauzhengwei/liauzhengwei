@@ -15,10 +15,6 @@ These are 3 fun facts about me:
 
 🔭 I’m currently working on a telegram bot project
 
-### ❄️ Notable Projects:
-
-
-
 ### 📖 Notable Coursework
 - SC2001 Algorithm Design & Analysis
 - SC2002 Object Oriented Design & Programming
