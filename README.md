@@ -13,14 +13,19 @@ These are 3 fun facts about me:
 - I love learning
 - I like to code during my free time
 
-🔭 I’m currently working on a telegram bot project
+🔭 I’m currently working on a personal website
+
+### ❄️ Notable Projects:
+- [liauzhengwei/SC1015-Introduction-to-Data-Science-and-Artificial-Intelligence-Project](https://github.com/liauzhengwei/SC1015-Introduction-to-Data-Science-and-Artificial-Intelligence-Project): SC1015 Introduction to Data Science and Artificial Intelligence (Car Price Prediction)
+- [EricFan2002/SC2002](https://github.com/EricFan2002/SC2002): SC2002 Object Oriented Programming (Camp Application Management System)
+- [darylloh29/ParkNow](https://github.com/darylloh29/ParkNow): SC2006 Software Engineering (ParkNow)
 
 ### 📖 Notable Coursework
-- <a href = "https://github.com/liauzhengwei/SC1015-Introduction-to-Data-Science-and-Artificial-Intelligence-Project"> SC1015 Introduction to Data Science and Artificial Intelligence </a>
+- SC1015 Introduction to Data Science and Artificial Intelligence
 - SC2001 Algorithm Design & Analysis
-- <a href = "https://github.com/EricFan2002/SC2002"> SC2002 Object Oriented Design & Programming </a>
+- SC2002 Object Oriented Design & Programming
 - SC2005 Operating Systems
-- <a href = "https://github.com/darylloh29/ParkNow"> SC2006 Software Engineering </a>
+- SC2006 Software Engineering
 
 <br />
 
