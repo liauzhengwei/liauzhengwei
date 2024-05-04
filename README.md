@@ -13,7 +13,7 @@ These are 3 fun facts about me:
 - I love learning
 - I like to code during my free time
 
-🔭 I’m currently working on a personal website
+🔭 I’m currently working on a personal project
 
 ### ❄️ Notable Projects:
 - [liauzhengwei/telegram-litcode-bot](https://github.com/liauzhengwei/telegram-litcode-bot): Telegram Bot for Randomly Generated Free Leetcode Problems
