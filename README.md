@@ -20,7 +20,7 @@ These are 3 fun facts about me:
 - [liauzhengwei/SC1015-Introduction-to-Data-Science-and-Artificial-Intelligence-Project](https://github.com/liauzhengwei/SC1015-Introduction-to-Data-Science-and-Artificial-Intelligence-Project): SC1015 Introduction to Data Science and Artificial Intelligence (Car Price Prediction)
 - [EricFan2002/SC2002](https://github.com/EricFan2002/SC2002): SC2002 Object Oriented Programming (Camp Application Management System)
 - [darylloh29/ParkNow](https://github.com/darylloh29/ParkNow): SC2006 Software Engineering (ParkNow)
-- [liauzhengwei/NTU-Assignments/SC4021/Assignments](https://github.com/liauzhengwei/NTU-Assignments/tree/main/SC4021/Assignment): SC4021 Information Retrieval (Stock Sentiment Prediction)
+- [liauzhengwei/NTU-Assignments/SC4021/Assignment](https://github.com/liauzhengwei/NTU-Assignments/tree/main/SC4021/Assignment): SC4021 Information Retrieval (Stock Sentiment Prediction)
 
 ### 📖 Notable Coursework
 - SC1007 Data Structures and Algorithms
