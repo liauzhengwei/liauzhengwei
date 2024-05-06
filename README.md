@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, my name is Zheng Wei</h1>
-<h3 align="center">I am a Year 2 Computer Science Undergraduate Student studying at Nanyang Technological University!</h3>
+<h3 align="center">I am a Year 3 Computer Science Undergraduate Student studying at Nanyang Technological University!</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/liau-zheng-wei/)
@@ -20,13 +20,17 @@ These are 3 fun facts about me:
 - [liauzhengwei/SC1015-Introduction-to-Data-Science-and-Artificial-Intelligence-Project](https://github.com/liauzhengwei/SC1015-Introduction-to-Data-Science-and-Artificial-Intelligence-Project): SC1015 Introduction to Data Science and Artificial Intelligence (Car Price Prediction)
 - [EricFan2002/SC2002](https://github.com/EricFan2002/SC2002): SC2002 Object Oriented Programming (Camp Application Management System)
 - [darylloh29/ParkNow](https://github.com/darylloh29/ParkNow): SC2006 Software Engineering (ParkNow)
+- [liauzhengwei/NTU-Assignments/SC4021/Assignments](https://github.com/liauzhengwei/NTU-Assignments/tree/main/SC4021): SC4021 Information Retrieval (Stock Sentiment Prediction)
 
 ### 📖 Notable Coursework
+- SC1007 Data Structures and Algorithms
 - SC1015 Introduction to Data Science and Artificial Intelligence
 - SC2001 Algorithm Design & Analysis
 - SC2002 Object Oriented Design & Programming
-- SC2005 Operating Systems
 - SC2006 Software Engineering
+- SC2207 Introduction to Databases
+- SC3000 Artificial Intelligence
+- SC4021 Information Retrieval
 
 <br />
 
