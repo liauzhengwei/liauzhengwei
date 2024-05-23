@@ -48,13 +48,13 @@ These are 3 fun facts about me:
   <h3>Backend</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,supabase,mysql,androidstudio" />
+      <img src="https://skillicons.dev/icons?i=nodejs,npm,supabase,mysql,androidstudio" />
     </a>
   </p>
 <h3>Software (Misc.)</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,anaconda,pytorch,sklearn,tensorflow,java,eclipse,git" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,r,python,anaconda,pytorch,sklearn,tensorflow,java,eclipse,git" />
     </a>
   </p>
   <br />
