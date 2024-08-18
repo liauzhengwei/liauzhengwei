@@ -7,11 +7,6 @@
 
   
 </div>
-These are 3 fun facts about me:
-
-- I am happy
-- I love learning
-- I like to code during my free time
 
 🔭 I’m currently working on a personal project
 
@@ -44,18 +39,65 @@ These are 3 fun facts about me:
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,js,react" />
     </a>
-  </p>
-  <h3>Backend</h3>
+<h3>Database</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,npm,supabase,mysql,androidstudio" />
+      <img src="https://skillicons.dev/icons?i=supabase,mysql,mongodb" />
     </a>
   </p>
-<h3>Software (Misc.)</h3>
+<h3>Package Management</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,r,python,anaconda,pytorch,sklearn,tensorflow,java,eclipse,git" />
+      <img src="https://skillicons.dev/icons?i=npm,maven" />
+    </a>
+  </p>
+<h3>General Programming</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,cpp,r,python,java,nodejs" />
+    </a>
+  </p>
+<h3>Data Science and Machine Learning</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=anaconda,pytorch,sklearn,tensorflow" />
+    </a>
+  </p>
+<h3>Cloud Computing</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=gcp" />
+    </a>
+  </p>
+<h3>Version Control</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=github,git" />
+    </a>
+  </p>
+<h3>Shell</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=pwsh,bash" />
+    </a>
+  </p>
+<h3>Operating System</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=windows,linux" />
+    </a>
+  </p>
+<h3>Integrated Development Environments (IDEs)</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vscode,pycharm,eclipse,idea,androidstudio" />
+    </a>
+<h3>Others</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vim,raspberrypi" />
     </a>
   </p>
   <br />
 </div>
+
