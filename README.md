@@ -60,7 +60,7 @@
 </p>
 <h3>Cloud Computing</h3>
   <p>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp,docker" />
   </p>
 <h3>Version Control</h3>
   <p>
@@ -70,7 +70,7 @@
   <p>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=terminal,pwsh,bash,vim" />
   </p>
-<h3>Operating System</h3>
+<h3>Operating Systems</h3>
   <p>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux" />
   </p>
