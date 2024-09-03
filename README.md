@@ -44,7 +44,7 @@
   </p>
 <h3>Package Management</h3>
   <p>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=npm,maven" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=npm,maven,cmake" />
   </p>
 <h3>General Programming</h3>
   <p>
@@ -52,7 +52,7 @@
   </p>
 <h3>Data Science and Machine Learning</h3>
   <p>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,kaggle,huggingface,jupyter,pytorch,sklearn,tensorflow,pandas,scipy,numpy,matplotlib,seaborn" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=regex,anaconda,kaggle,huggingface,jupyter,pytorch,sklearn,tensorflow,pandas,scipy,numpy,matplotlib,seaborn" />
   </p>
 <h3>Data Visualization and Analysis Tools</h3>
 <p>
