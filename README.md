@@ -72,7 +72,7 @@
   </p>
 <h3>Operating Systems</h3>
   <p>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,apple,ubuntu" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,apple,linux,wsl,ubuntu" />
   </p>
 <h3>Integrated Development Environments (IDEs)</h3>
   <p>
