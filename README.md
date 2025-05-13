@@ -19,6 +19,7 @@
 - [liauzhengwei/telegram-litcode-bot](https://github.com/liauzhengwei/telegram-litcode-bot): Telegram Bot for Randomly Generated Free Leetcode Problems
 - [EricFan2002/SC2002](https://github.com/EricFan2002/SC2002): SC2002 Object Oriented Programming (Camp Application Management System)
 - [darylloh29/ParkNow](https://github.com/darylloh29/ParkNow): SC2006 Software Engineering (ParkNow)
+- [haqanh/eda397](https://github.com/haqanh/eda397): (Chalmers) EDA397 Agile Development Processes (RateACourse webpage)
 
 ### 🏛️: Notable Coursework
 - SC1007 Data Structures and Algorithms
@@ -29,6 +30,9 @@
 - SC2207 Introduction to Databases
 - SC3000 Artificial Intelligence
 - SC4021 Information Retrieval
+- (Chalmers) TME286 Intelligent Agents
+- (Chalmers) EDA397 Agile Development Processes
+- (Chalmers) DAT341 Applied Machine Learning 
 
 <br />
 
