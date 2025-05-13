@@ -37,54 +37,228 @@
 <div align="center">
   <h3>Frontend</h3>
   <p>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react" />
+    <span title="HTML">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=html"/>
+    </span>
+    <span title="CSS">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=css"/>
+    </span>
+    <span title="JavaScript">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=js"/>
+    </span>
+    <span title="React">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=react"/>
+    </span>  
+  </p>
   
-<h3>Database</h3>
+  <h3>Database</h3>
   <p>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase,mysql,mongodb,bigquery" />
+    <span title="Supabase">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase" />
+    </span>
+    <span title="MySQL">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" />
+    </span>
+    <span title="MongoDB">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" />
+    </span>
+    <span title="BigQuery">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=bigquery" />
+    </span>
   </p>
-<h3>Package Management</h3>
+  
+  <h3>Package Management</h3>
   <p>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=npm,maven,cmake" />
+    <span title="npm">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=npm" />
+    </span>
+    <span title="Maven">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=maven" />
+    </span>
+    <span title="CMake">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cmake" />
+    </span>
   </p>
-<h3>General Programming</h3>
+  
+  <h3>General Programming</h3>
   <p>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,r,python,java,nodejs" />
+    <span title="C">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=c" />
+    </span>
+    <span title="C++">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" />
+    </span>
+    <span title="R">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=r" />
+    </span>
+    <span title="Python">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=python" />
+    </span>
+    <span title="Java">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=java" />
+    </span>
+    <span title="Node.js">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" />
+    </span>
   </p>
-<h3>Data Science and Machine Learning</h3>
+  
+  <h3>Data Science and Machine Learning</h3>
   <p>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=regex,anaconda,kaggle,huggingface,jupyter,pytorch,sklearn,tensorflow,pandas,scipy,numpy,matplotlib,seaborn" />
+    <span title="Regex">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=regex" />
+    </span>
+    <span title="Anaconda">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda" />
+    </span>
+    <span title="Kaggle">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=kaggle" />
+    </span>
+    <span title="Hugging Face">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" />
+    </span>
+    <span title="Jupyter">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" />
+    </span>
+    <span title="PyTorch">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch" />
+    </span>
+    <span title="Scikit-learn">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" />
+    </span>
+    <span title="TensorFlow">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow" />
+    </span>
+    <span title="Pandas">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" />
+    </span>
+    <span title="SciPy">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=scipy" />
+    </span>
+    <span title="NumPy">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" />
+    </span>
+    <span title="Matplotlib">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" />
+    </span>
+    <span title="Seaborn">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn" />
+    </span>
   </p>
-<h3>Data Visualization and Analysis Tools</h3>
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=tableau,streamlit" />
-</p>
-<h3>Cloud Computing</h3>
+  
+  <h3>Data Visualization and Analysis Tools</h3>
   <p>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp,docker" />
+    <span title="Tableau">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=tableau" />
+    </span>
+    <span title="Streamlit">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit" />
+    </span>
   </p>
-<h3>Version Control</h3>
+  
+  <h3>Cloud Computing</h3>
   <p>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,githubcopilot" />
+    <span title="Google Cloud Platform">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp" />
+    </span>
+    <span title="Docker">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" />
+    </span>
   </p>
-<h3>Shell and Terminal Tools</h3>
+  
+  <h3>Version Control</h3>
   <p>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=terminal,pwsh,bash,vim" />
+    <span title="GitHub">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=github" />
+    </span>
+    <span title="Git">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=git" />
+    </span>
+    <span title="GitHub Copilot">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=githubcopilot" />
+    </span>
   </p>
-<h3>Operating Systems</h3>
+  
+  <h3>Shell and Terminal Tools</h3>
   <p>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,apple,linux,wsl,ubuntu" />
+    <span title="Terminal">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=terminal" />
+    </span>
+    <span title="PowerShell">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=pwsh" />
+    </span>
+    <span title="Bash">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=bash" />
+    </span>
+    <span title="Vim">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=vim" />
+    </span>
   </p>
-<h3>Integrated Development Environments (IDEs)</h3>
+  
+  <h3>Operating Systems</h3>
   <p>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,eclipse,idea,androidstudio" />
-<h3>Embedded Systems</h3>
-  <p>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi" />
+    <span title="Windows">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=windows" />
+    </span>
+    <span title="macOS">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=apple" />
+    </span>
+    <span title="Linux">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=linux" />
+    </span>
+    <span title="WSL">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=wsl" />
+    </span>
+    <span title="Ubuntu">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu" />
+    </span>
   </p>
-<h3>Office and Productivity Tools</h3>
+  
+  <h3>Integrated Development Environments (IDEs)</h3>
   <p>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,powerpoint,word,markdown,canva,chatgpt" />
+    <span title="VS Code">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" />
+    </span>
+    <span title="PyCharm">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=pycharm" />
+    </span>
+    <span title="Eclipse">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=eclipse" />
+    </span>
+    <span title="IntelliJ IDEA">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=idea" />
+    </span>
+    <span title="Android Studio">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio" />
+    </span>
+  </p>
+  
+  <h3>Embedded Systems</h3>
+  <p>
+    <span title="Raspberry Pi">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi" />
+    </span>
+  </p>
+  
+  <h3>Office and Productivity Tools</h3>
+  <p>
+    <span title="Microsoft Excel">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=excel" />
+    </span>
+    <span title="Microsoft PowerPoint">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=powerpoint" />
+    </span>
+    <span title="Microsoft Word">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=word" />
+    </span>
+    <span title="Markdown">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=markdown" />
+    </span>
+    <span title="Canva">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=canva" />
+    </span>
+    <span title="ChatGPT">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" />
+    </span>
   </p>
   <br />
 </div>
