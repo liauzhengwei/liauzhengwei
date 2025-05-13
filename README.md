@@ -88,6 +88,9 @@
     <span title="C++">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" />
     </span>
+    <span title="C#">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=cs" />
+    </span>
     <span title="R">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=r" />
     </span>
@@ -125,6 +128,7 @@
     <span title="Scikit-learn">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" />
     </span>
+    <br />
     <span title="TensorFlow">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow" />
     </span>
@@ -159,6 +163,9 @@
   <p>
     <span title="Google Cloud Platform">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp" />
+    </span>
+    <span title="Azure">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=azure" />
     </span>
     <span title="Docker">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" />
@@ -256,9 +263,20 @@
     <span title="Canva">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=canva" />
     </span>
+    <br />
     <span title="ChatGPT">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" />
     </span>
+    <span title="Latex">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=latex" />
+    </span>
+    <span title="Jira">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=jira" />
+    </span>
+    <span title="Overleaf">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=overleaf" />
+    </span>
+    
   </p>
   <br />
 </div>
