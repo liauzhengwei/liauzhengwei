@@ -14,12 +14,13 @@
 - [liauzhengwei/SC1015-Introduction-to-Data-Science-and-Artificial-Intelligence-Project](https://github.com/liauzhengwei/SC1015-Introduction-to-Data-Science-and-Artificial-Intelligence-Project): SC1015 Introduction to Data Science and Artificial Intelligence (Car Price Prediction)
 - [liauzhengwei/NTU-Assignments/SC3000/Assignment1](https://github.com/liauzhengwei/NTU-Assignments/tree/main/SC3000/Assignment1): SC3000 Artificial Intelligence (Q Learning on Cartpole Problem) 
 - [liauzhengwei/NTU-Assignments/SC4021/Assignment](https://github.com/liauzhengwei/NTU-Assignments/tree/main/SC4021/Assignment): SC4021 Information Retrieval (Stock Sentiment Prediction with Search Engine Interface)
+- [liauzhengwei/Chalmers-Assignments/Applied-Machine-Learning/Assignments/5](https://github.com/liauzhengwei/Chalmers-Assignments/tree/main/Applied-Machine-Learning/Assignments) [Chalmers] DAT341 Applied Machine Learning (Image Classification of Skin Cancer)
 
 ### ✨: Notable Software Engineering Projects:
 - [liauzhengwei/telegram-litcode-bot](https://github.com/liauzhengwei/telegram-litcode-bot): Telegram Bot for Randomly Generated Free Leetcode Problems
 - [EricFan2002/SC2002](https://github.com/EricFan2002/SC2002): SC2002 Object Oriented Programming (Camp Application Management System)
 - [darylloh29/ParkNow](https://github.com/darylloh29/ParkNow): SC2006 Software Engineering (ParkNow)
-- [haqanh/eda397](https://github.com/haqanh/eda397): (Chalmers) EDA397 Agile Development Processes (RateACourse webpage)
+- [haqanh/eda397](https://github.com/haqanh/eda397): [Chalmers] EDA397 Agile Development Processes (RateACourse webpage)
 
 ### 🏛️: Notable Coursework
 - SC1007 Data Structures and Algorithms
