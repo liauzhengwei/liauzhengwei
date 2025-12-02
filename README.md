@@ -30,6 +30,8 @@
 - SC2006 Software Engineering
 - SC2207 Introduction to Databases
 - SC3000 Artificial Intelligence
+- SC4001 Neural Networks and Deep Learning
+- SC4002 Natural Language Processing 
 - SC4021 Information Retrieval
 - (Chalmers) TME286 Intelligent Agents
 - (Chalmers) EDA397 Agile Development Processes
