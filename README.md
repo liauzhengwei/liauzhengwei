@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, my name is Zheng Wei</h1>
-<h3 align="center">I am a Year 3 Computer Science Undergraduate Student studying at Nanyang Technological University!</h3>
+<h3 align="center">I am a Year 4 Computer Science Undergraduate Student studying at Nanyang Technological University!</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liau-zheng-wei/)
