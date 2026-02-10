@@ -178,13 +178,16 @@
     </span>
   </p>
   
-  <h3>Cloud Computing</h3>
+  <h3>Cloud & Dev Ops</h3>
   <p>
     <span title="Google Cloud Platform">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp" />
     </span>
     <span title="Azure">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=azure" />
+    </span>
+    <span title="Amazon Web Services">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=aws" />
     </span>
     <span title="Docker">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" />
@@ -199,8 +202,14 @@
     <span title="Git">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=git" />
     </span>
-    <span title="GitHub Copilot">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=githubcopilot" />
+    <span title="GitLab">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab" />
+    </span>
+    <span title="Git Bash">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=gitbash" />
+    </span>
+    <span title="GitHub Desktop">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=githubdesktop" />
     </span>
   </p>
   
@@ -313,23 +322,11 @@
     <span title="Confluence">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=confluence" />
     </span>
-    <span title="Amazon Web Services">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=aws" />
-    </span>
     <span title="Gemini">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" />
     </span>
-    <span title="Git Bash">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=gitbash" />
-    </span>
-    <span title="GitHub Desktop">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=githubdesktop" />
-    </span>
     <span title="Google Colab">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=googlecolab" />
-    </span>
-    <span title="GitLab">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab" />
     </span>
     <span title="Postman">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=postman" />
@@ -352,7 +349,9 @@
     <span title="Microsoft Teams">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=teams" />
     </span>
-    
+    <span title="GitHub Copilot">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=githubcopilot" />
+    </span>
     
   </p>
   <br />
