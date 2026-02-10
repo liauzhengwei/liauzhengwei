@@ -14,6 +14,9 @@
 - [liauzhengwei/SC1015-Introduction-to-Data-Science-and-Artificial-Intelligence-Project](https://github.com/liauzhengwei/SC1015-Introduction-to-Data-Science-and-Artificial-Intelligence-Project): SC1015 Introduction to Data Science and Artificial Intelligence (Car Price Prediction)
 - [liauzhengwei/NTU-Assignments/SC3000/Assignment1](https://github.com/liauzhengwei/NTU-Assignments/tree/main/SC3000/Assignment1): SC3000 Artificial Intelligence (Q Learning on Cartpole Problem) 
 - [liauzhengwei/NTU-Assignments/SC4021/Assignment](https://github.com/liauzhengwei/NTU-Assignments/tree/main/SC4021/Assignment): SC4021 Information Retrieval (Stock Sentiment Prediction with Search Engine Interface)
+- [liauzhengwei/NTU-Assignments/SC4001/Assignments](https://github.com/liauzhengwei/NTU-Assignments/blob/main/SC4001/Assignments/Individual): SC4001 Neural Networks and Deep Learning (Music Genre Classification & HDB Price Regression)
+- [liauzhengwei/NN-DL-Pass-Art-School](https://github.com/liauzhengwei/NN-DL-Pass-Art-School/tree/main): SC4001 Neural Networks and Deep Learning (Artistic Style Transfer with Generative Adversarial Networks)
+- [liauzhengwei/NTU-Assignments/SC4002/NLP-assignment](https://github.com/liauzhengwei/NTU-Assignments/tree/main/SC4002/NLP-assignment): SC4002 Natural Language Processing (Topic Classification of TREC question dataset)
 - [liauzhengwei/Chalmers-Assignments/Applied-Machine-Learning/Assignments/5](https://github.com/liauzhengwei/Chalmers-Assignments/tree/main/Applied-Machine-Learning/Assignments) [Chalmers] DAT341 Applied Machine Learning (Image Classification of Skin Cancer)
 
 ### ✨: Notable Software Engineering Projects:
