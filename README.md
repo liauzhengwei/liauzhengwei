@@ -53,9 +53,18 @@
     <span title="JavaScript">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=js"/>
     </span>
+    <span title="Typescript">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" />
+    </span>
     <span title="React">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=react"/>
-    </span>  
+    </span>
+    <span title="Angular">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=angular" />
+    </span>
+    <span title="Sass">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=sass" />
+    </span>
   </p>
   
   <h3>Database</h3>
@@ -163,6 +172,9 @@
     </span>
     <span title="Streamlit">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit" />
+    </span>
+    <span title="Neo4j">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=neo4j" />
     </span>
   </p>
   
@@ -298,9 +310,6 @@
     <span title="Expo">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=expo" />
     </span>
-    <span title="Angular">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=angular" />
-    </span>
     <span title="Confluence">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=confluence" />
     </span>
@@ -322,9 +331,6 @@
     <span title="GitLab">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab" />
     </span>
-    <span title="Neo4j">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=neo4j" />
-    </span>
     <span title="Postman">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=postman" />
     </span>
@@ -342,12 +348,6 @@
     </span>
     <span title="Selenium">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=selenium" />
-    </span>
-    <span title="Typescript">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" />
-    </span>
-    <span title="Sass">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=sass" />
     </span>
     <span title="Microsoft Teams">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=teams" />
