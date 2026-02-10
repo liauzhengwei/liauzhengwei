@@ -283,6 +283,76 @@
     <span title="Overleaf">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=overleaf" />
     </span>
+    <span title="Acrobat">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=acrobat" />
+    </span>
+    <span title="Ollama">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=ollama" />
+    </span>
+    <span title="Wireshark">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark" />
+    </span>
+    <span title="YAML">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=yaml" />
+    </span>
+    <span title="Expo">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=expo" />
+    </span>
+    <span title="Angular">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=angular" />
+    </span>
+    <span title="Confluence">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=confluence" />
+    </span>
+    <span title="Amazon Web Services">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=aws" />
+    </span>
+    <span title="Gemini">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" />
+    </span>
+    <span title="Git Bash">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=gitbash" />
+    </span>
+    <span title="GitHub Desktop">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=githubdesktop" />
+    </span>
+    <span title="Google Colab">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=googlecolab" />
+    </span>
+    <span title="GitLab">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab" />
+    </span>
+    <span title="Neo4j">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=neo4j" />
+    </span>
+    <span title="Postman">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=postman" />
+    </span>
+    <span title="Pytest">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=pytest" />
+    </span>
+    <span title="Notion">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=notion" />
+    </span>
+    <span title="Sharepoint">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=sharepoint" />
+    </span>
+    <span title="Prettier">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=prettier" />
+    </span>
+    <span title="Selenium">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=selenium" />
+    </span>
+    <span title="Typescript">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" />
+    </span>
+    <span title="Sass">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=sass" />
+    </span>
+    <span title="Microsoft Teams">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=teams" />
+    </span>
+    
     
   </p>
   <br />
